@@ -1,11 +1,5 @@
 # LED Chaser
 
-<a href="LED-Chaser/Left-to-Right"> Left to Right </a>
+<a href="LED-Chaser/Single-LEDs/README.md"> Single LEDs </a>
 
-
-
-## Back and Forth
-
-
-
-## Cascade 1
+<a href="LED-Chaser/Cascading-LEDs/README.md"> Cascading LEDs </a>
