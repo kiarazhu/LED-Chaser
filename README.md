@@ -2,7 +2,10 @@
 
 I am using the ATmega324A microchip.
 
-### <a href="Single-LEDs/README.md"> Single LEDs </a>
+### <a href="Single-LEDs/README.md"> Single LED Chaser </a>
+- Left to Right
+- Right to Left
+- Back and Forth
 
 ### <a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
 
