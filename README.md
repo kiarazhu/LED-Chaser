@@ -1,2 +1,11 @@
-# LED-Chaser
-Making an LED chaser with 8 LEDs.
+# LED Chaser
+
+## Left to Right
+
+
+
+## Back and Forth
+
+
+
+## Cascade 1
