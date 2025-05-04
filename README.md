@@ -1,6 +1,6 @@
 # LED Chaser
 
-<a href="LED-Chaser/Left-to-RIght" Left to Right>
+<a href="LED-Chaser/Left-to-Right"> Left to Right </a>
 
 
 
