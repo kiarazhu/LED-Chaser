@@ -1,5 +1,7 @@
 # LED Chaser
 
-<a href="Single-LEDs/README.md"> Single LEDs </a>
+I am using the ATmega324A microchip.
 
-<a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
+## <a href="Single-LEDs/README.md"> Single LEDs </a>
+
+## <a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
