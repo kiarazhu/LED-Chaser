@@ -11,8 +11,8 @@ I am using the ATmega324A microchip.
 - Back and Forth
 
 ### <a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
-- Left Cascade
-- Right Cascade
+- Left Cascading
+- Right Cascading
 
 ### <a href="LED-Train/README.md"> LED Trains </a>
 - Left Train
