@@ -5,8 +5,6 @@ On my I/O Board, L7 is the leftmost LED whereas L0 is the rightmost LED.
 
 I am using the ATmega324A microchip.
 
-All patterns can be inverted by XORing the led value assigned to the output port.
-
 ### <a href="Single-LEDs/README.md"> Single LEDs </a>
 - Left to Right
 - Right to Left
@@ -16,5 +14,13 @@ All patterns can be inverted by XORing the led value assigned to the output port
 - Left Cascade
 - Right Cascade
 
-What if we read user input to select the behaviour of our chaser? What if we can use a switch to choose the direction, or use buttons to manipulate the speed?
+What if we can incorporate switches and buttons to select the behaviour of our chaser? 
+
+- B0: Makes the chaser slow down
+- B1: Makes the chaser speed up
+
+- S0: Changes the direction of the chaser
+- S1: Inverts the chaser bits
+  
+What if we can use a switch to choose the direction, or use buttons to manipulate the speed?
 
