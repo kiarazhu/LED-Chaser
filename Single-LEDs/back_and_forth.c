@@ -19,25 +19,22 @@ int main(void) {
 		_delay_ms(100);
 		
 		if (left) {
-			led >>= 1;    // Shift left
+		    led >>= 1;    // Shift left
 		} else {
-			led <<= 1;    // Shift right
+	            led <<= 1;    // Shift right
 		}
-
-		/* If the led value is out of bounds,
+  	        /* If the led value is out of bounds,
 		bounce the led back in the other
 		direction */
-        if (led == 0x00)   {
+                if (led == 0x00)   {
 			
-			if (left) {
-				led = 0x01 << 1;
-			} else {
-                led = 0x80 >> 1;
-		    }
-			
-			// Change direction
-			left ^= 1;    
-			
-		}
-	}
+	            if (left) {
+		        led = 0x01 << 1;
+	            } else {
+                        led = 0x80 >> 1;
+	            }	
+	            // Change direction
+   	            left ^= 1;    
+	        }
+        }    
 }
