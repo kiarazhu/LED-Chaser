@@ -2,8 +2,10 @@
 
 These are some basic patterns that light up LEDs one at a time. 
 
-Travels from the leftmost LED to the rightmost LED before returning to the leftmost LED and repeating this pattern. The implementation is in `left_to_right.c`:
 ## Left to Right
+
+Travels from the leftmost LED to the rightmost LED before returning to the leftmost LED and repeating this pattern. The implementation is in `left_to_right.c`:
+
 <img height="400" alt="image0" src="https://github.com/user-attachments/assets/c6d8e83e-d3df-45d8-a9c8-04ca52ca6beb" />
 <img height="400" alt="image1" src="https://github.com/user-attachments/assets/7fe7ccaa-d06b-4e89-8587-a5fadbbfbc75" />
 
@@ -11,6 +13,7 @@ Travels from the leftmost LED to the rightmost LED before returning to the leftm
 ## Right to Left
 
 Travels from the rightmost LED to the leftmost LED before returning to the rightmost LED and repeating this pattern. The implementation is in `right_to_left.c`:
+
 <img height="400" alt="image2" src="https://github.com/user-attachments/assets/695520ad-dfa3-46d9-bdf2-27a7ff6e5d91" />
 <img height="400" alt="image3" src="https://github.com/user-attachments/assets/abc3cc11-6141-40d2-ad16-7248d502dd48" />
 
