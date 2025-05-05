@@ -14,6 +14,10 @@ I am using the ATmega324A microchip.
 - Left Cascade
 - Right Cascade
 
+### <a href="LED-Train/README.md"> Cascading LEDs </a>
+- Left Train
+- Right Train
+
 What if we can incorporate switches and buttons to select the behaviour of our chaser? 
 
 - B0: Makes the chaser slow down
