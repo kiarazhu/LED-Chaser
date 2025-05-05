@@ -5,7 +5,7 @@ On my I/O Board, L7 is the leftmost LED whereas L0 is the rightmost LED.
 
 I am using the ATmega324A microchip.
 
-All patterns can be inverted by XORing the led value assigned to port A.
+All patterns can be inverted by XORing the led value assigned to the output port.
 
 ### <a href="Single-LEDs/README.md"> Single LEDs </a>
 - Left to Right
