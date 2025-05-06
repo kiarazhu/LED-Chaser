@@ -10,21 +10,18 @@ int main(void) {
 	// Begin at the rightmost led
 	uint8_t led = 0x00;
 	
-    uint8_t tail = 0;
+	uint8_t tail = 0;
 
 	while(1) {
-		PORTA = led;    // Display the led;
+		// Display the led;
+		PORTA = led;    
 		_delay_ms(100);
-		if (!tail) {
-		    led = (led << 1) + 1;     // Illuminate the next led
-			if (led == 0xFF) {
-				tail = 1;
-			}
-		} else {
-			led = led << 1;    // Turn off the previous led
-			if (led == 0x00) {
-				tail = 0;
-			}
-		}
+		
+		// Moves the train one led to the left
+		led = (led << 1) + (1 * !tail);
+		
+        if (led == 0xFF || led == 0x00) {
+	        tail ^= 1;
+        }
 	}
 }
