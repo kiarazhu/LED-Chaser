@@ -18,7 +18,7 @@ The implementation can be found in `right_train.c`:
 <img height="310" alt="image12" src="https://github.com/user-attachments/assets/37b3f88d-280f-4a8d-a786-109b4e7ea30b" />
 
 ## Back and Forth Train
-Bounces back and forth from left to right, then right to left.
+Bounces back and forth from left to right, then right to left. The implementation can be found in `back_and_forth_train.c`:
 
 <img height="530" alt="image7" src="https://github.com/user-attachments/assets/5e362511-5cbe-4d86-99a7-a4815d577b26" />
 <img height="400" alt="image8" src="https://github.com/user-attachments/assets/755a1347-19fa-49d9-81f2-9dc3b1a43bab" />
