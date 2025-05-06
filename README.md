@@ -17,6 +17,7 @@ I am using the ATmega324A microchip.
 ### <a href="LED-Train/README.md"> LED Trains </a>
 - Left Train
 - Right Train
+- Back and forth train
 
 What if we can incorporate switches and buttons to select the behaviour of our chaser? 
 
