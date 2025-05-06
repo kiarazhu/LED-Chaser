@@ -9,6 +9,7 @@ I am using the ATmega324A microchip.
 - Left to Right
 - Right to Left
 - Back and Forth
+- Switch Control
 
 ### <a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
 - Left to Right Cascading
