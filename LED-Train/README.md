@@ -10,6 +10,8 @@
 
 ## Right Train
 
+The implementation can be found in `right_train.c`:
+
 <img height="530" alt="image9" src="https://github.com/user-attachments/assets/c03940b1-fbe8-4d9f-bdfe-31545fcfce6e" />
 <img height="400" alt="image10" src="https://github.com/user-attachments/assets/e249e49c-a894-4ede-b754-7fec8c85c156"/>
 <img height="420" alt="image11" src="https://github.com/user-attachments/assets/b680a2b6-0197-47b7-abe3-d13f3aa320c7" />
