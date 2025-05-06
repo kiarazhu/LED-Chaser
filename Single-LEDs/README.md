@@ -26,3 +26,6 @@ Bounces back and forth between the leftmost and rightmost LEDs. Starts at the le
 <img height="300" alt="image4" src="https://github.com/user-attachments/assets/4fafcb77-36e3-4516-8394-5650f053bf00" />
 <img height="300" alt="image5" src="https://github.com/user-attachments/assets/92a0b994-6a37-4619-a48d-78bb93874b86" />
 
+## Switch Control
+
+`switch_control.c` has the microcontroller connected to two switches; one selects the direction of the chaser while the other selects whether the bits are inverted or not.
