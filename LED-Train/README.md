@@ -1,14 +1,14 @@
 # LED Trains
 
 
-## Left Train
+## Left to Right Train
 <img height="530" alt="image7" src="https://github.com/user-attachments/assets/5e362511-5cbe-4d86-99a7-a4815d577b26" />
 <img height="400" alt="image8" src="https://github.com/user-attachments/assets/755a1347-19fa-49d9-81f2-9dc3b1a43bab" />
 <img height="420" alt="image13" src="https://github.com/user-attachments/assets/6164a456-cf50-47f3-a30f-028b7d794024" />
 <img height="310" alt="image14" src="https://github.com/user-attachments/assets/0260deaf-6f83-456f-ade6-5f5a7f564f28" />
 
 
-## Right Train
+## Right to Left Train
 
 The implementation can be found in `right_train.c`:
 
