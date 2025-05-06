@@ -11,12 +11,12 @@ I am using the ATmega324A microchip.
 - Back and Forth
 
 ### <a href="Cascading-LEDs/README.md"> Cascading LEDs </a>
-- Left Cascading
-- Right Cascading
+- Left to Right Cascading
+- Right to Left Cascading
 
 ### <a href="LED-Train/README.md"> LED Trains </a>
-- Left Train
-- Right Train
+- Left to Right Train
+- Right to Left Train
 - Back and forth train
 
 What if we can incorporate switches and buttons to select the behaviour of our chaser? 
